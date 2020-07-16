@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-16 06:05:21</sys_created_on>
+        <sys_id>20a6571d074a10108b7ff7d08c1ed002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.186956.workspace.testrepository.testrepository</sys_name>
+        <sys_package display_value="testRepository" source="x_186956_testrepos">0e0613d9074a10108b7ff7d08c1ed002</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testRepository">0e0613d9074a10108b7ff7d08c1ed002</sys_scope>
+        <sys_security_acl display_value="x.186956.workspace.testrepository">24a6171d074a10108b7ff7d08c1ed0fa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_20a6571d074a10108b7ff7d08c1ed002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-16 06:05:21</sys_updated_on>
+        <sys_user_role display_value="testrepository" name="testrepository">a0a6171d074a10108b7ff7d08c1ed0fe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

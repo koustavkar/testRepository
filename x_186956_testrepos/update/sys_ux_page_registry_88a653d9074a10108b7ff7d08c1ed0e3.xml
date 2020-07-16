@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>88a653d9074a10108b7ff7d08c1ed0e2</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/testrepository</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-16 06:05:18</sys_created_on>
+        <sys_id>88a653d9074a10108b7ff7d08c1ed0e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testRepository</sys_name>
+        <sys_package display_value="testRepository" source="x_186956_testrepos">0e0613d9074a10108b7ff7d08c1ed002</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testRepository">0e0613d9074a10108b7ff7d08c1ed002</sys_scope>
+        <sys_update_name>sys_ux_page_registry_88a653d9074a10108b7ff7d08c1ed0e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-16 06:05:18</sys_updated_on>
+        <title>testRepository</title>
+    </sys_ux_page_registry>
+</record_update>
